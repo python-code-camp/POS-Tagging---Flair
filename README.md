@@ -12,3 +12,5 @@ There are numerous models for POSE tagging, but flair stands out as one of the m
 flair is an NLP library developed by Zalando Research. It provides state-of-the-art models, for various NLP tasks, including POSE tagging, named entity recognition, sentiment analysis, and more. flair is built on PyTorch and is known for its simplicity and effectiveness.
 
 https://huggingface.co/flair/pos-english
+
+Do Watch : https://youtu.be/njnbHPRI8fE
