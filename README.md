@@ -1,4 +1,4 @@
-# Part-of-Speech, POSE Tagging.
+# Part-of-Speech, POS Tagging.
 
 In natural language processing, POSE tagging is a process, where each word in a sentence, is assigned a specific grammatical category, or part of speech, such as noun, verb, adjective, excetra. These tags provide information, about the syntactic structure of a sentence, and help in, understanding the role of each word in the context of a sentence.
 
