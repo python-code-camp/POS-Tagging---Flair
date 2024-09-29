@@ -1,3 +1,5 @@
+""" https://www.youtube.com/@PythonCodeCampOrg """
+
 from flair.data import Sentence
 from flair.models import SequenceTagger
 
